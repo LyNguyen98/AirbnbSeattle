@@ -1,6 +1,6 @@
 # AirbnbSeattle
 
-**1.	About the project **
+**1. About the project**
 
 This project is using data collected from Airbnb Seattle in 2016 to analyze what and how factors really affect the average renting price hence helping hosts and travelers get to an equilibrium point.
 
