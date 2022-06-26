@@ -11,7 +11,9 @@ This is my first project to complete the Nanodegree course in Data science provi
 **3.	Prerequisites**
 
 •	Pandas version 1.4.2
+
 •	Numpy version 1.21.5
+
 •	Matplotlib version 3.5.1
 
 **4.	Contact**
