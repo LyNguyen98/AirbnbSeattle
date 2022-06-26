@@ -18,11 +18,11 @@ This is my first project to complete the Nanodegree course in Data science provi
 
 **4.	Contact**
 
-  •	Project link:
+  •	Project link: https://github.com/LyNguyen98/AirbnbSeattle
   •	Article: https://medium.com/@lynguyen.huong98/what-affect-the-average-renting-price-in-seattle-in-2016-2de0614e8967
 
 **5.	Acknowledgement:**
 
-  •	Data source: - Owned by Airbnb
+  •	Data source:  https://www.kaggle.com/datasets/airbnb/seattle?select=listings.csv - Owned by Airbnb
   •	Author: Ly Nguyen
 
